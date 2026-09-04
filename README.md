@@ -1,6 +1,6 @@
 # 💰 Smart Expense Categorizer (Machine Learning)
 
-A beginner‑friendly **machine learning project** that classifies transaction texts (e.g.,  
+A **machine learning project** that classifies transaction texts (e.g.,  
 Swiggy 250 → Food, Uber 300 → Travel) into categories like **Food, Travel,E-Commerce,Finance and Entertainment**.
 
 ---
